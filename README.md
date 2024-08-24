@@ -2,7 +2,7 @@
 
 Estou empolgado em compartilhar com todos vocês as adaptações que fiz em algumas placas. Este projeto é um projeto inicial usando minhas experimentações e paixão por hardware.
 
-# ProtoHat + Socket 2x5 + Grove + CC1101
+# ProtoHat + Socket 2x5 + Grove + CC1101 / NRF24L01
 Transformei o ProtoHat num meio de conectar várias placas sem precisar daquela troca de fio que leva tempo. Para isso adicionei um Socket 2x5 e fiz alguns ajustes pra ganhar espaço. A solda está longe de estar perfeita, mas está funcional por enquanto e bem resistente.
 
 Obs.: Apesar de eu ter usado um Socket 2x5, o ideal seria um Socket 2x4 para o CC1101 e o NRF24L01.
@@ -10,6 +10,7 @@ Obs.: Apesar de eu ter usado um Socket 2x5, o ideal seria um Socket 2x4 para o C
 ## Lista de itens:
 
 + M5StickC Plus 2: https://s.click.aliexpress.com/e/_DlnmePt
++ ProtoHat: https://s.click.aliexpress.com/e/_DesMKIL
 + CC1101: https://s.click.aliexpress.com/e/_DlaeenD
 + NRF24L01-PA-LNA: https://s.click.aliexpress.com/e/_DcRrayF
 + Cable Grove2Dupont: https://s.click.aliexpress.com/e/_DDrQLjv
