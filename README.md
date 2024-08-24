@@ -22,7 +22,7 @@ O esquema usado seguiu a mesma lógica do CC1101 para o M5Stick, você pode enco
 ![pinoutcc1101](./media/Pinout%20CC1101.png)
 
 Firmware usada para o teste:
-BRUCE - Predatory Firmware
+BRUCE - Predatory Firmware - https://github.com/pr3y/Bruce/
 
 ![BRUCE](https://github.com/pr3y/Bruce/blob/main/media/pictures/bruce_banner.jpg)
 
